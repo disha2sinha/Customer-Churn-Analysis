@@ -1,0 +1,4 @@
+,tenure,MonthlyCharges,gender,SeniorCitizen,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,Churn
+0,37,94,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,0,1
+1,9,83,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2,9,39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
